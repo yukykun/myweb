@@ -1,0 +1,250 @@
+body {
+    margin: 0;
+}
+
+h2 {
+    margin-left: 20px;
+    font-family: Helvetica;
+}
+
+.kun {
+    text-align: center;
+    font-family: Georgia;
+    font-size: 3em;
+    background-image: url(image/head.png);
+    padding: 175px;
+    margin-top: 0px;
+    color: #FFFFFF;
+}
+
+.nav {
+    text-align: center;
+}
+
+.navbar {
+    list-style-type: none;
+    padding: 0px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin: auto;
+}
+
+.menu {
+    display: inline-flex;
+}
+
+.nv:link,
+.nv:visited {
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #AC7C7C;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.nv:hover,
+.nv:active {
+    background-color: #D0BAA8;
+}
+
+.navlist {
+    list-style-type: none;
+}
+.guide{
+   background-color: #8C7676;
+    padding-bottom: 1180px;
+    float: right;
+   
+
+}
+.littlemenu {
+    
+    display: block;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+.change:link,
+.change:visited {
+    padding-right: 40px;
+    font-weight: bold;
+    color:white;
+    text-align: left;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.change:hover,
+.change:active {
+    background-color: #D65F5F;
+}
+#me {
+    display: block;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+.intro {
+    font-size: 1em;
+    margin: 15px;
+    font-family: Georgia;
+}
+
+.description {
+    font-size: 1.2em;
+    color: #888888;
+    font-family: didot;
+    text-align: center;
+}
+
+.hobby {
+    margin-left: 20px;
+}
+
+table {
+    margin: auto;
+    font-family: Geneva;
+    margin-bottom: 20px;
+    border-collapse: collapse;
+}
+
+td:hover,
+td:active {
+    background-image: url(image/back.jpg);
+}
+
+table,
+th,
+td {
+    text-align: center;
+}
+
+#firstrow {
+    background-color: #EFE4E4;
+}
+
+#one {
+    background-color: #FEFAEC;
+}
+
+#two {
+    background-color: #EFE4E4;
+}
+
+caption {
+    caption-side: bottom;
+}
+
+p {
+    font-family: Arial;
+}
+
+footer {
+    padding: 20px;
+    padding-top: 30px;
+    background-image: url(image/foot.png);
+    margin-top: 0px;
+    color: white;
+}
+
+.hobby {
+    font-family: Georgia;
+}
+
+.Xin {
+    display: flex;
+}
+
+.Si {
+    display: flex;
+}
+
+.si1 {
+    padding: 20px;
+    margin-top: 80px;
+    margin-left: 70px;
+}
+
+.xin2 {
+    padding: 20px;
+    margin-top: 80px;
+}
+
+#jiang {
+    border-radius: 0.5em;
+    margin: 50px;
+    margin-left: 80px;
+}
+
+#chuan {
+    border-radius: 0.5em;
+    margin: 50px;
+}
+
+#photo {
+    text-align: center;
+    color: #888888;
+    font-family: didot;
+    font-style: italic;
+}
+
+#fashion {
+    margin: 30px;
+}
+
+.like {
+    display: flex;
+}
+
+.puppy {
+    margin-top: 30px;
+    margin-left: 80px;
+    margin-bottom: 30px;
+    font-family: didot;
+    font-size: 1.2em;
+}
+
+#dog {
+    border-radius: 0.5em;
+    margin-bottom: 20px;
+    margin-left: 5px;
+}
+
+.heper {
+    margin: 50px;
+    font-family: Didot;
+    font-size: 1.5em;
+    color: #663300;
+}
+
+.link {
+    margin: 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+    border-bottom: 1px solid;
+    font-family: Arial;
+}
+
+#sentence {
+    font-family: Arial;
+}
+
+#liverpool:link,
+#liverpool:visited {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+    border-bottom: 1px solid;
+}
+
+.foot {
+    text-align: center;
+    font-family: Georgia;
+}
+
+#header-section {
+    margin-left: 10px;
+    font-family: Helvetica;
+}
